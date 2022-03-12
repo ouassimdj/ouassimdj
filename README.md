@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ouassimdj
-- 👀 I’m interested in ...
+- 👀 I’m interested in python
 - 🌱 I’m currently learning everything 🤣
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on my portfolio: [OuassimDj](https://ouassimdj.github.io/)
 
 
