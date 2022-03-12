@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning everything 🤣
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on my portfolio: [CodeCats](https://ouassimdj.github.io/)
+- 📫 How to reach me on my portfolio: [OuassimDj](https://ouassimdj.github.io/)
 
 
 <!---
