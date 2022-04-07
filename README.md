@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ouassimdj
-- 👀 I’m interested in python
+- 👀 I’m interested in python and evrythinh tech realated 
 - 🌱 I’m currently learning everything 🤣
 - 📫 How to reach me on my portfolio: [OuassimDj](https://ouassimdj.github.io/)
 
